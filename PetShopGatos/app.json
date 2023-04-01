@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "PetShopGatos",
+    "slug": "PetShopGatos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ico.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/spl.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#A050BE"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ico.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/ico.png"
+    }
+  }
+}
